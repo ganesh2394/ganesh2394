@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋, I'm Ganesh!  
+🚀 **Software Developer | Cybersecurity Enthusiast | Java & DSA Geek**  
+🎯 Passionate about building scalable software and solving real-world problems.
 
-<!--
-**ganesh2394/ganesh2394** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 Skills & Technologies
+- 💻 Programming: **Java, C++, C, JavaScript, SQL**
+- 🗄️ Databases: **MySQL, MongoDB**
+- 🔧 Tools: **Git, Postman, Wireshark, Packet Tracer**
+- 🛠️ Frameworks: **NodeJS, TailwindCSS**
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
+![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaneshDev&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-prasad09/) 
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ganesh2394/ganesh2394/) 
+
+## ⚡ Fun Fact
+🔥 I love **building projects** that combine **software development & cybersecurity**!
+
+---
+⭐️ **Feel free to fork and star this repository!** ⭐️
