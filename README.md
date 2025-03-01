@@ -14,9 +14,8 @@
 
 ## 🛠️ About Me
 - 🎓 **Pursuing BE in Information Technology**  
-- 💡 **Solving real-world problems using C++, Java, and DSA**  
-- 🔥 **Cybersecurity & Networking Enthusiast**  
-- 🎥 **Content Creator on YouTube**  
+- 💡 **Solving real-world problems using C++, C, JavaScript, Java and DSA**  
+- 🔥 **Coder, Software Developer and Tech Enthusiast**  
 - 🌍 **Based in Indore, Madhya Pradesh, India**  
 
 ---
@@ -55,7 +54,12 @@
   </tr>
 </table>
 
-[![Latest YouTube Videos](https://github-readme-youtube-latest-video.vercel.app/api?channel_id=UC_GZnzpYXeP24lP1b_sgPug&layout=default&theme=dark)](https://youtu.be/BJ9-2YbsEas)
+## 🎥 Latest YouTube Videos  
+[![Latest YouTube Videos](https://github-readme-youtube-latest-video.vercel.app/api?channel_id=UC_GZnzpYXeP24lP1b_sgPug&layout=default&theme=dark)](https://www.youtube.com/channel/UC_GZnzpYXeP24lP1b_sgPug)
+
+📌 **Check out my full playlist:**  
+[![My YouTube Playlist](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube)](https://www.youtube.com/playlist?list=PLFKSskMOGy_sdf5j2Ue7CRKTBp6AyjmP3)
+
 
 ---
 
