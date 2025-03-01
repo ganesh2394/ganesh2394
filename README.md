@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ganeshprasad09&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ganesh2394&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -34,11 +34,11 @@
 
 ## 📊 GitHub Stats & Streak  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganeshprasad09&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ganesh2394&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshprasad09&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh2394&theme=tokyonight" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshprasad09&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh2394&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -55,7 +55,7 @@
   </tr>
 </table>
 
-[![Latest YouTube Videos](https://github-readme-youtube-latest-video.vercel.app/api?channel_id=UC_GZnzpYXeP24lP1b_sgPug&layout=default&theme=dark)](https://www.youtube.com/channel/UC_GZnzpYXeP24lP1b_sgPug)
+[![Latest YouTube Videos](https://github-readme-youtube-latest-video.vercel.app/api?channel_id=UC_GZnzpYXeP24lP1b_sgPug&layout=default&theme=dark)](https://youtu.be/BJ9-2YbsEas)
 
 ---
 
