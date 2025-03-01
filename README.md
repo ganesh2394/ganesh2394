@@ -1,22 +1,89 @@
-# Hi there 👋, I'm Ganesh!  
-🚀 **Software Developer | Cybersecurity Enthusiast | Java & DSA Geek**  
-🎯 Passionate about building scalable software and solving real-world problems.
+<h1 align="center"> 
+  Hey there! 👋 I'm Ganesh Prasad 
+</h1>
 
-## 🔥 Skills & Technologies
-- 💻 Programming: **Java, C++, C, JavaScript, SQL**
-- 🗄️ Databases: **MySQL, MongoDB**
-- 🔧 Tools: **Git, Postman, Wireshark, Packet Tracer**
-- 🛠️ Frameworks: **NodeJS, TailwindCSS**
+<p align="center">
+  🚀 Passionate Software Developer | Cybersecurity Enthusiast | Java & DSA Geek
+</p>
 
-## 📈 GitHub Stats
-![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaneshDev&show_icons=true&theme=tokyonight)
-
-## 🎯 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-prasad09/) 
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ganesh2394/ganesh2394/) 
-
-## ⚡ Fun Fact
-🔥 I love **building projects** that combine **software development & cybersecurity**!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ganeshprasad09&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
 
 ---
-⭐️ **Feel free to fork and star this repository!** ⭐️
+
+## 🛠️ About Me
+- 🎓 **Pursuing BE in Information Technology**  
+- 💡 **Solving real-world problems using C++, Java, and DSA**  
+- 🔥 **Cybersecurity & Networking Enthusiast**  
+- 🎥 **Content Creator on YouTube**  
+- 🌍 **Based in Indore, Madhya Pradesh, India**  
+
+---
+
+## 🚀 Tech Stack & Skills  
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-Data_Structures-red.svg?style=flat&logo=codeforces" />
+  <img src="https://img.shields.io/badge/MySQL-Database-orange.svg?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Streak  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ganeshprasad09&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshprasad09&theme=tokyonight" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshprasad09&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🎥 Latest YouTube Videos  
+<!-- YouTube videos auto-updated -->
+<table>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/channel/UC_GZnzpYXeP24lP1b_sgPug">
+        <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube" alt="YouTube" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+[![Latest YouTube Videos](https://github-readme-youtube-latest-video.vercel.app/api?channel_id=UC_GZnzpYXeP24lP1b_sgPug&layout=default&theme=dark)](https://www.youtube.com/channel/UC_GZnzpYXeP24lP1b_sgPug)
+
+---
+
+## 🌍 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/ganesh-prasad09">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ganeshprasad09">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/_ganesh_p09/">
+    <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100063476495599">
+    <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-DarkGreen?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact  
+💡 Did you know?  
+*"I love building software that combines technology with cybersecurity!"*  
+
+---
+
+⭐ **Feel free to fork and star this repository!** ⭐  
