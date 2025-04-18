@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  🚀 Passionate Software Developer | Cybersecurity Enthusiast | Java & DSA Geek
+  🚀 Passionate Software Developer | Full Stack Developer | Passinate to write the Backend Code | Java & DSA Geek 
 </p>
 
 <p align="center">
@@ -13,10 +13,18 @@
 ---
 
 ## 🛠️ About Me
-- 🎓 **Pursuing BE in Information Technology**  
-- 💡 **Solving real-world problems using C++, C, JavaScript, Java and DSA**  
-- 🔥 **Coder, Software Developer and Tech Enthusiast**  
-- 🌍 **Based in Indore, Madhya Pradesh, India**  
+- 🎓 **Pursuing BE in Information Technology**
+- 💡 **Solving real-world problems using C++, JavaScript, Java, and DSA**
+- 🛠️ **Passionate about Backend Development & Cybersecurity Integration**
+- 🌍 **Based in Indore, Madhya Pradesh, India**
+- 🎯 **Goal-Oriented and Continuous Learner**  
+
+---
+## 🧠 Certifications
+- ✅ Cisco Networking Essentials – *Cisco Networking Academy*
+- ✅ Java (Intermediate) – *HackerRank*
+- ✅ SQL (Basic & Intermediate) – *HackerRank*
+- ✅ Cybersecurity Essentials – *Cisco Networking Academy*
 
 ---
 
@@ -28,6 +36,14 @@
   <img src="https://img.shields.io/badge/MySQL-Database-orange.svg?style=flat&logo=mysql" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" />
 </p>
+
+---
+
+## 🎯 Career Goals
+- 🔐 Merge my knowledge of **software development** and **cybersecurity** to build ethical security-based tools
+- 🚀 Contribute to open-source **backend-focused projects**
+- 🎓 Get placed in a **product-based company** as a Full Stack or Backend Developer
+- ✍️ Educate and mentor students via YouTube on **Java, DSA, MySQL & System Design**
 
 ---
 
